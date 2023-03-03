@@ -8,4 +8,4 @@ Documentations:<br>
  - [pycoingecko](https://github.com/man-c/pycoingecko)
 
 #
-Me and -[@Jeydin] other people created this website for a club called Technical Student Association (TSA). 
+Created by [Jeydin21](https://github.com/Jeydin21/), [RohanP1506](https://github.com/RohanP1506), and [Jacobw0410](https://github.com/Jacobw0410). We created this project for a club called Technical Student Association (TSA). We are all introductory computer science students in high school and this was our first real project outside of class that didn't have any instructions to guide us. 
